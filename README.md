@@ -2,16 +2,16 @@
 
 This is a script file of a werehouse database.
 Objects include:
--store
--work
--worker
--IO(inputs & outputs)
--manager
--general manager
--invoice
--driver
--truck
--product
+- store
+- work
+- worker
+- IO(inputs & outputs)
+- manager
+- general manager
+- invoice
+- driver
+- truck
+- product
 
 # Useing the databse
 
