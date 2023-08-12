@@ -1,7 +1,7 @@
 # werehouse-database
 
 This is a script file of a werehouse database.
-Objects includes:
+Objects include:
 -store
 -work
 -worker
@@ -17,4 +17,4 @@ Objects includes:
 
 1. create a new database with the exact name (db_werehouse)
 2. click on the file.
-3. click on F5 on the keyboard ro execute the script and DONE!
+3. click F5 on the keyboard to execute the script and DONE!
